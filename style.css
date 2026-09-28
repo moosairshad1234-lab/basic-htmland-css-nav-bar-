@@ -1,0 +1,47 @@
+```css
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial;
+}
+
+nav {
+    background-color: black;
+    padding: 20px;
+}
+
+nav h1 {
+    color: white;
+    display: inline;
+}
+
+nav ul {
+    display: inline;
+    margin-left: 500px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: yellow;
+}
+
+h2 {
+    margin: 30px;
+}
+
+p {
+    margin: 30px;
+}
+```
